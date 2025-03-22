@@ -1,2 +1,0 @@
-controlaireacondicionado.Main
-controlaireacondicionado.controlaireacondicionado
