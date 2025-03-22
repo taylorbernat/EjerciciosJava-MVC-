@@ -1,4 +1,0 @@
-Principal.Main
-ControlLucesAutomáticoVector.ControlLucesAutomáticoVector
-controllucesautomáticovector.Main
-controllucesautomáticovector.controllucesautomáticovectorMain
